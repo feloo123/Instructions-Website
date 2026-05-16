@@ -13,3 +13,5 @@ Step 3: Viewing the results:
 The code will print answers directly to the terminal with figures appearing as graphs of bars, plots and scatter
 
 Important Note: Make sure to close each figure after they appear to see each graph.
+### Every thing is explained in the website
+# Make sure to put all of these files in one folder
