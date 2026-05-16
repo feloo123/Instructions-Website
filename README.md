@@ -19,6 +19,9 @@ Important Note: Make sure to close each figure after they appear to see each gra
 #### Make sure to download each library by using the following commands:
 pip install pandas
 pip install matplotlib
+pip install openpyxl
 #### Make sure that matplotlib is imported like this:
 import matplotlib.pyplot
 to be able to make good graphs, bars, scatters, and plots
+### Why is this project made?
+it is made simply because my Machine learning CS club lended me a task to analyze these data and answer the questions inserted in my results.docx file
