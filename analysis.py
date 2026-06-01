@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-df = pd.read_excel(r"C:\Users\feloo\OneDrive\Desktop\Machine learning\events.xlsx")
+df = pd.read_excel(r"events.xlsx")
 
 
 topic_popularity = df.groupby('topic')['attendance'].sum()
