@@ -23,5 +23,9 @@ pip install openpyxl
 #### Make sure that matplotlib is imported like this:
 import matplotlib.pyplot
 to be able to make good graphs, bars, scatters, and plots
+
+<img width="806" height="691" alt="image" src="https://github.com/user-attachments/assets/5394a5cd-1655-4ff6-b1d1-6a59de09b190" />
+
+
 ### Why is this project made?
 it is made simply because my Machine learning CS club lended me a task to analyze these data and answer the questions inserted in my results.docx file
